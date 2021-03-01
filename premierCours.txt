@@ -1,0 +1,4 @@
+creer  un depository local
+creer un dossier
+creer un fichier et l'enregistée
+creer un depository distant
