@@ -1,4 +1,4 @@
-I.creer  un depository local
+I.creer  un repository local
 creer un dossier (New folder)
 creer un fichier (New file) et l'enregistée
 le charger sur le terminal avec la commen 'git init'
@@ -6,18 +6,17 @@ ajouter le fichier avec 'git add + nom du fichier'
 pour ajouter un commentaire pour expliquer une modification avec 'git commit -m "......" 
 puis executer ou pour envoyer les infos 'git push'
 
-II.creer un depository distant
+II.creer un repository distant
 1.créer un nouveau repository avec  "New repository"
 2.le nommer
-3. pour utiliser un depository déja exister charger l'acces a distance avec "
+3. pour utiliser un repository déja exister charger l'acces a distance avec "
 git remote add origin https://github.com/thioroDiop/Lecon.git
 git branch -M main
 git push -u origin main"
-III. acces au depository d'un autre utulisateur
-pour recupérer le depository de l'autre  avec "git clone + adress web  de la personne concernée" 
+III. acces au repository distant d'un autre utulisateur
+pour recupérer le repository de l'autre  avec "git clone + adress web  de la personne concernée" 
 
-IV. pour voir les commit
-'git log'
+
 
 
 
